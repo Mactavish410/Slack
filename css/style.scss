@@ -21,6 +21,9 @@ body {
             line-height: 19px;
             letter-spacing: 0.06em;
             color: #000000;
+            a {
+                color: #000;
+            }
         }
         ul {
             margin: 0;
@@ -225,6 +228,7 @@ body {
         margin-bottom: 40px;
     }
     a {
+        color: #000;
         font-weight: 500;
         font-size: 16px;
         line-height: 19px;
@@ -360,6 +364,38 @@ body {
 .team__procent88 {
     color: #69D3FA;
     width: 176px;
+}
+.teams__icon {
+}
+.teams__icon-1 {
+    position: relative;
+    top: 105px;
+    left: -232px;
+}
+.teams__icon-2 {
+    position: relative;
+    top: 37px;
+    left: -383px;
+}
+.teams__icon-3 {
+    position: relative;
+    top: 172px;
+    left: -441px;
+}
+.teams__icon-4 {
+    position: relative;
+    top: 100px;
+    left: 354px;
+}
+.teams__icon-5 {
+    position: relative;
+    top: 180px;
+    left: 354px;
+}
+.teams__icon-6 {
+    position: relative;
+    top: 25px;
+    left: 292px;
 }
 .team__block {
     display: flex;
